@@ -7,9 +7,7 @@ Original file is located at
     https://colab.research.google.com/drive/1nOIIP6TFhVzjLrg1kIPZ0T9PaxjsqxAo
 """
 
-#Furqan ALi
-#200901073
-#Bs-Cs-01-B
+
 class Node:
     def __init__(self, data=None, next=None):
         self.data = data
