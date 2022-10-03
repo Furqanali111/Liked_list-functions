@@ -9,3 +9,5 @@ in this program we are going to perform the following functions:
 ◦	Deletion at the end of the list
 ◦	Deletion from the arbitrary location of the list
 3.	Node Traversal/Print Linked List  
+# Ouput Images
+![image](https://user-images.githubusercontent.com/77490589/193582616-7eb8eb86-c318-4b98-8634-403fa21dc024.png)
